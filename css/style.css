@@ -1,0 +1,45 @@
+body{
+	background-color: #f1f1f1;
+	height: 2000px;
+}
+.container .all{
+		margin-bottom: 70px;
+		margin-top: 66px;
+		font-size: 58px;
+}
+
+.container .all{
+	margin: 20px auto;
+	margin-top: 48px;
+	height: 513px;
+	 width: 436px;
+	box-shadow: 0px 0px 48px -11px rgba(0,0,0,1);
+	border-radius: 15px;
+	background-color: white;			
+}
+.im1 {
+	border-radius: 15px 15px 0px 0px;
+}
+.im2{
+    border-radius: 	50%;
+  	margin-top:-22%;
+    margin-left:33%;
+    border :5px solid white;
+}
+.container .all p{
+	font-size: 23px;
+	margin-top: 15px;
+}
+.sos{
+	margin-top:-72px;
+
+}
+.sos .fa-facebook{
+	color: #2980b9;
+}
+.sos .fa-instagram{
+	color: #e74c3c;
+}
+.sos .fa-snapchat{
+	color: #f1c40f;
+}
